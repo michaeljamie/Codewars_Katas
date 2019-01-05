@@ -1,8 +1,14 @@
-# Codewars_Katas
-🥋 Completed Codewars Katas
+![CodeWars](https://www.co.midland.tx.us/ImageRepository/Document?documentId=1230 "Codewars Logo")
 
-### Vocabulary
+# Codewars Katas
+### 🥋 Completed Codewars Katas
 
-- Kata: is an algorithm you have to solve in any programming language you desire
+Check out my Codewars profile [here!](https://www.codewars.com/users/mikejames/ "Michael Johnston Codewars Profile")
 
-- Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform
+#### Note:
+
+- Kata: is an algorithm you have to solve in any programming language you desire.  I used Javascript.
+
+- Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform.
+
+
