@@ -1,4 +1,4 @@
-![CodeWars](https://www.co.midland.tx.us/ImageRepository/Document?documentId=1230 "Codewars Logo")
+![Codewars](https://user-images.githubusercontent.com/26236137/51702796-ed37e500-1fd1-11e9-8692-8593886096c7.png "Codewars Logo")
 
 # Codewars Katas
 ### 🥋 Completed Codewars Katas
