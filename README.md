@@ -7,7 +7,7 @@ Check out my Codewars profile [here!](https://www.codewars.com/users/mikejames/ 
 
 #### Note:
 
-- Kata: is an algorithm you have to solve in any programming language you desire.  I used Javascript.
+- Kata: is an algorithm you have to solve in any programming language you desire.  I focus mainly on Javascript.
 
 - Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform.
 
