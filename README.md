@@ -11,4 +11,6 @@ Check out my [Codewars Profile!](https://www.codewars.com/users/mikejames/ "Mich
 
 - Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform.
 
+- I've organized the completed katas and placed them into folders based on their kyu.
+
 
