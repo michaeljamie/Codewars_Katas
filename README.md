@@ -3,7 +3,7 @@
 # Codewars Katas
 ### 🥋 Completed Codewars Katas
 
-Check out my Codewars profile [here!](https://www.codewars.com/users/mikejames/ "Michael Johnston Codewars Profile")
+Check out my [Codewars Profile!](https://www.codewars.com/users/mikejames/ "Michael Johnston Codewars Profile")
 
 #### Note:
 
