@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)
+
 ![Codewars](https://user-images.githubusercontent.com/26236137/51702796-ed37e500-1fd1-11e9-8692-8593886096c7.png "Codewars Logo")
 
 # Codewars Katas
