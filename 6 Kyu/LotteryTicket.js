@@ -21,4 +21,4 @@ function bingo(ticket, win){
   return "Loser!";
 }
 
-bingo([['ABC', 65], ['HGR', 74], ['BYHT', 74]], 2)
+// bingo([['ABC', 65], ['HGR', 74], ['BYHT', 74]], 2)
